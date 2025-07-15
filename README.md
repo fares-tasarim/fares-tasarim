@@ -1,7 +1,7 @@
 ![Açıklama](https://github.com/fares-tasarim/fares-tasarim/raw/main/images/foto.jpg)
 
 <h1 align="center">I'm Ahmet Fares</h1>
-
+<h1 align="center">Graphic & Web Design</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/gamercraft_pro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gamercraft_pro" height="30" width="40" /></a>
