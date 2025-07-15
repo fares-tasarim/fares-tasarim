@@ -1,6 +1,5 @@
-[![Image](https://i.hizliresim.com/meto5u5.jpg)](https://hizliresim.com/meto5u5)
-<h1 align="center">Hi 👋, I'm Ahmet Fares</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+
+<h1 align="center">I'm Ahmet Fares</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
