@@ -1,3 +1,4 @@
+![Açıklama](https://github.com/fares-tasarim/fares-tasarim/raw/main/images/foto.jpg)
 
 <h1 align="center">I'm Ahmet Fares</h1>
 
