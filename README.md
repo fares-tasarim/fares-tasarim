@@ -1,4 +1,4 @@
-<a href="https://hizliresim.com/meto5u5"><img src="https://i.hizliresim.com/meto5u5.jpg" alt="Resim Yükle"></a>
+https://i.hizliresim.com/meto5u5.jpg
 <h1 align="center">Hi 👋, I'm Ahmet Fares</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
